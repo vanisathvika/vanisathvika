@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA with JAVA,AI-ML,AWS,REACT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vanisathvika/](https://github.com/vanisathvika/)
+- 👨‍💻 All of my projects are available at [https://github.com/vanisathvika/](https://github.com/vanisathvika?tab=repositories)
 
 - 📫 How to reach me **vanisathvikareddy@gmail.com**
 
